@@ -1,0 +1,8 @@
+Aula 5 - Refinamento incremental e otimização contínua
+Fase 3 - Construir e Experimentar Agentes Simples
+Capítulo: Otimizando Agentes de IA
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=680055&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=680060
+
+Obs.: links exigem login na plataforma FIAP.

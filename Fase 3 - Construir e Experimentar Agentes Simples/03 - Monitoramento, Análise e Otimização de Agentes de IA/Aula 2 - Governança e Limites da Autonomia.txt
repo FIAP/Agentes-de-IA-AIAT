@@ -1,0 +1,8 @@
+Aula 2 - Governança e Limites da Autonomia
+Fase 3 - Construir e Experimentar Agentes Simples
+Capítulo: Monitoramento, Análise e Otimização de Agentes de IA
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=680043&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=680047
+
+Obs.: links exigem login na plataforma FIAP.

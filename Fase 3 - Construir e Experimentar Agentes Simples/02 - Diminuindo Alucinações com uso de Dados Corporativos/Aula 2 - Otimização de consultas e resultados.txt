@@ -1,0 +1,8 @@
+Aula 2 - Otimização de consultas e resultados
+Fase 3 - Construir e Experimentar Agentes Simples
+Capítulo: Diminuindo Alucinações com uso de Dados Corporativos
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=680034&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=680038
+
+Obs.: links exigem login na plataforma FIAP.

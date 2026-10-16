@@ -1,0 +1,8 @@
+Aula 1 - O que é RAG e sua relevância para GenAI
+Fase 3 - Construir e Experimentar Agentes Simples
+Capítulo: Diminuindo Alucinações com uso de Dados Corporativos
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=680033&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=680037
+
+Obs.: links exigem login na plataforma FIAP.

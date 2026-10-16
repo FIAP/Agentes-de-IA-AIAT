@@ -1,0 +1,8 @@
+Aula 1 - Observabilidade de Agentes de IA
+Fase 3 - Construir e Experimentar Agentes Simples
+Capítulo: Monitoramento, Análise e Otimização de Agentes de IA
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=680042&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=680046
+
+Obs.: links exigem login na plataforma FIAP.

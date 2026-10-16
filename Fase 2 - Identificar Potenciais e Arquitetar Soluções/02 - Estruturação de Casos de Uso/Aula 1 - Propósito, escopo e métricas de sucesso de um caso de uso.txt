@@ -1,0 +1,8 @@
+Aula 1 - Propósito, escopo e métricas de sucesso de um caso de uso
+Fase 2 - Identificar Potenciais e Arquitetar Soluções
+Capítulo: Estruturação de Casos de Uso
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=643723&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=643727
+
+Obs.: links exigem login na plataforma FIAP.

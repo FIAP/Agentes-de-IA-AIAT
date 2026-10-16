@@ -1,0 +1,8 @@
+Aula 2 - Tipos de IA
+Fase 1 - IA e Agentes de IA
+Capítulo: Inteligência Artificial e Modelos de Linguagem (LLM)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=620172&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=620176
+
+Obs.: links exigem login na plataforma FIAP.

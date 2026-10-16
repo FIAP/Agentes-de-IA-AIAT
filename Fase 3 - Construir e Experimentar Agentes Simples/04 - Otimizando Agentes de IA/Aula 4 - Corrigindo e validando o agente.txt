@@ -1,0 +1,8 @@
+Aula 4 - Corrigindo e validando o agente
+Fase 3 - Construir e Experimentar Agentes Simples
+Capítulo: Otimizando Agentes de IA
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=680054&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=680059
+
+Obs.: links exigem login na plataforma FIAP.
